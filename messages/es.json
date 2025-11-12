@@ -1,4 +1,25 @@
 {
   "title": "Próximamente",
-  "message": "Nuestro sitio web está en construcción. Estaremos aquí pronto con nuestro nuevo e increíble sitio."
+  "subtitle": "Algo increíble está en camino",
+  "message": "Nuestro sitio web está en construcción. Estaremos aquí pronto con nuestro nuevo e increíble sitio.",
+  "teaser": "Manténgase atento para una experiencia increíble",
+  "form": {
+    "title": "Ponerse en contacto",
+    "name": "Nombre",
+    "namePlaceholder": "Su nombre",
+    "email": "Correo electrónico",
+    "emailPlaceholder": "su.correo@ejemplo.com",
+    "message": "Mensaje",
+    "messagePlaceholder": "Su mensaje...",
+    "submit": "Enviar mensaje",
+    "submitting": "Enviando...",
+    "success": "¡Gracias! Su mensaje ha sido enviado correctamente.",
+    "errors": {
+      "nameRequired": "El nombre es obligatorio",
+      "emailRequired": "El correo electrónico es obligatorio",
+      "emailInvalid": "Por favor, introduzca una dirección de correo electrónico válida",
+      "messageRequired": "El mensaje es obligatorio",
+      "submitFailed": "No se pudo enviar el mensaje. Por favor, inténtelo de nuevo más tarde."
+    }
+  }
 }

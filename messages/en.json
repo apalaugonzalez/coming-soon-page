@@ -1,4 +1,25 @@
 {
   "title": "Coming Soon",
-  "message": "Our website is under construction. We'll be here soon with our new awesome site."
+  "subtitle": "Something amazing is on the way",
+  "message": "Our website is under construction. We'll be here soon with our new awesome site.",
+  "teaser": "Stay tuned for an incredible experience",
+  "form": {
+    "title": "Get in Touch",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "your.email@example.com",
+    "message": "Message",
+    "messagePlaceholder": "Your message...",
+    "submit": "Send Message",
+    "submitting": "Sending...",
+    "success": "Thank you! Your message has been sent successfully.",
+    "errors": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "messageRequired": "Message is required",
+      "submitFailed": "Failed to send message. Please try again later."
+    }
+  }
 }
